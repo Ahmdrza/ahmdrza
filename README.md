@@ -12,6 +12,10 @@ Recently, I have started learning React Native 📱 and I love it.
 
 - JavaScript, Reactjs, Nextjs, Redux, Context API, React Native, Nodejs, Php, Laravel, Angular
 
+#### Design Frameworks
+
+- Ant Design (React), Material UI (React)
+
 #### Tools / Libraries
 
 - Socket.IO, Redis, JWT, Git, jQuery
