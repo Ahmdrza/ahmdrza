@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a Software Engineer with around 3.5 years of experience in developing robust, highly performative, scalable, and secure applications.
+
+I have a quite diverse experience of working on different projects like CRM, Lawyers directory, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
+
+Recently, I have started learning React Native 📱 and I love it.
+
+## Skills
+
+#### Programming languages / Frameworks
+
+- JavaScript, Reactjs, Nextjs, Redux, Context API, React Native, Nodejs, Php, Laravel, Angular
+
+#### Tools / Libraries
+
+- Socket.IO, Redis, JWT, Git, jQuery
+
+#### Payment Gateways
+
+- Stripe, Authorize.net
+
 
 <!--
 **Ahmdrza/ahmdrza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
