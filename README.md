@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a Software Engineer with around 3.5 years of experience in developing robust, highly performative, scalable, and secure applications.
+I am a Software Engineer with more than 3.5 years of experience in developing robust, highly performative, scalable, and secure applications.
 
-I have a quite diverse experience of working on different projects like CRM, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
+I have quite a diverse experience of working on different projects like CRM, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
 
 Recently, I have started learning React Native 📱 and I love it.
 
@@ -18,7 +18,7 @@ Recently, I have started learning React Native 📱 and I love it.
 
 #### Design Frameworks
 
-- Ant Design (React), Material UI (React)
+- Ant Design (React), Material UI (React), Bootstrap
 
 #### Tools / Libraries
 
