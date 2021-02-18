@@ -2,7 +2,7 @@
 
 I am a Software Engineer with around 3.5 years of experience in developing robust, highly performative, scalable, and secure applications.
 
-I have a quite diverse experience of working on different projects like CRM, Lawyers directory, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
+I have a quite diverse experience of working on different projects like CRM, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
 
 Recently, I have started learning React Native 📱 and I love it.
 
@@ -10,7 +10,11 @@ Recently, I have started learning React Native 📱 and I love it.
 
 #### Programming languages / Frameworks
 
-- JavaScript, Reactjs, Nextjs, Redux, Context API, React Native, Nodejs, Php, Laravel, Angular
+- JavaScript, TypeScript, Reactjs, Nextjs, Redux, Context API, React Native, Nodejs, Php, Laravel, Angular, GraphQL
+
+#### Database
+
+- MySQL
 
 #### Design Frameworks
 
@@ -18,7 +22,7 @@ Recently, I have started learning React Native 📱 and I love it.
 
 #### Tools / Libraries
 
-- Socket.IO, Redis, JWT, Git, jQuery
+- Socket.IO, Redis, JWT, Git, jQuery, Sequelize
 
 #### Payment Gateways
 
