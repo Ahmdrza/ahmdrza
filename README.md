@@ -14,7 +14,7 @@ Recently, I have started learning React Native 📱 and I love it.
 
 #### Database
 
-- MySQL
+- MySQL, PostgreSQL
 
 #### Design Frameworks
 
