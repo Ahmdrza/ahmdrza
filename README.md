@@ -30,4 +30,4 @@ Recently, I have started working at Careem (first Unicorn in MENAP), and I ❤ i
 
 
 ### 📍 My Status
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdrza&show_icons=true)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdrza&show_icons=true&theme=radical)
