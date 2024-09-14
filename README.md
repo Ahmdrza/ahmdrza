@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I am a Software Engineer with about 5 years of experience in developing robust, highly performative, scalable, and secure applications.
+I am a Software Engineer with about 7 years of experience developing robust, highly performative, scalable, and secure applications.
 
-I have quite a diverse experience of working on different projects like CRM, real-time bidding application, auction search engine (UI), e-commerce for college courses (UI), and a Travel social network.
-
-Recently, I have started working at Careem (first Unicorn in MENAP), and I ❤ it.
+I have quite a diverse experience working on projects like CRM, real-time bidding applications, auction search engines (UI), e-commerce for college courses (UI), and a Travel social network.
 
 ## Skills
 
